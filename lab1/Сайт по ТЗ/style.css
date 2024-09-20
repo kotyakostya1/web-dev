@@ -1,0 +1,36 @@
+body{
+   background-color:#DBD7D2
+}
+.h2_1 { 
+	color: black;
+	font-size: 18px;
+	font-weight: 400;
+	background-color: white;
+}
+.p1 { 
+	color: red;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 16px;
+}
+.p2 { 
+	color: green;
+	font-size: 16px;
+	font-weight: 400;
+	text-align: left;
+	line-height: 24px;
+}
+.ul1 {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px;
+	list-style-type: none;
+}
+.ul2 {
+	font-style: verdana;
+	font-size: 25px;
+	text-align: left;
+	list-style-image: url(img/img5.jpg);
+	background-size: 6px;
+	background-repeat: no-repeat;
+}
